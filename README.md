@@ -1,1 +1,1 @@
-This is the GitHub repo for the paper ``Certified surface approximations using the generalized Krawczyk test''.
+This is the GitHub repo for the paper "Certified surface approximations using the generalized Krawczyk test".
