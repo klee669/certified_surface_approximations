@@ -1,4 +1,4 @@
-# Certified Surface Paving
+# Certified Surface Approximation
 
 This repository contains the Julia implementation of the certified surface approximation algorithm presented in the paper ["Certified surface approximations using the interval Krawczyk test"](https://arxiv.org/abs/2602.07718). It uses interval arithmetic and the Krawczyk operator to compute certified coverings of implicit surfaces.
 
