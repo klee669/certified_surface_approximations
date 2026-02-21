@@ -66,4 +66,6 @@ export_boxes_to_obj(tiles, "my_surface.obj")
 
 ```
 
-<img src="parabola.png" width="500" alt="Torus Paving Result">
+The output will be like...
+
+<img src="parabola.png" width="500" alt="Paraboloid Paving Result">
