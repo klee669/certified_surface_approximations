@@ -32,9 +32,9 @@ Running the script will automatically compute the certified tiles for the three 
 
 The `surface_examples.jl` script includes three implicit surfaces:
 
-1. **Sphere**: 
-2. **Saddle**: 
-3. **Torus**: 
+1. **Sphere**: $x^2 + y^2 + z^2 - 10 = 0$
+2. **Saddle**: $0.25x^2 - 0.125xy^2 - z = 0$
+3. **Torus**: $(\sqrt{x^2 + y^2} - 2)^2 + z^2 - 0.8^2 = 0$
 
 You can easily modify `max_tiles` (maximum number of boxes) or `init_r` (initial radius) inside the script to test different resolutions.
 
