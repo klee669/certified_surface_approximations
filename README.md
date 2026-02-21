@@ -19,10 +19,10 @@ Pkg.add(["LinearAlgebra", "ForwardDiff", "IntervalArithmetic", "StaticArrays", "
 
 ## Quick Start
 
-You can run the examples directly from your terminal or the Julia REPL.
+You can run the code directly from your terminal or the Julia REPL.
 
 ```julia
-include("surface_examples.jl")
+include("surface_core.jl")
 
 ```
 
