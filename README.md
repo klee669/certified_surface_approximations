@@ -66,3 +66,4 @@ export_boxes_to_obj(tiles, "my_surface.obj")
 
 ```
 
+The output will be like ![Sphere Paving Result](parabola.png)
